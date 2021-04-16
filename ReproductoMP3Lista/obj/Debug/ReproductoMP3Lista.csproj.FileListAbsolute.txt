@@ -1,0 +1,14 @@
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\bin\Debug\ReproductoMP3Lista.exe.config
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\bin\Debug\ReproductoMP3Lista.exe
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\bin\Debug\ReproductoMP3Lista.pdb
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\bin\Debug\Interop.WMPLib.dll
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\obj\Debug\ReproductoMP3Lista.csprojAssemblyReference.cache
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\obj\Debug\Interop.WMPLib.dll
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\obj\Debug\ReproductoMP3Lista.csproj.ResolveComReference.cache
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\obj\Debug\ReproductoMP3Lista.Form1.resources
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\obj\Debug\ReproductoMP3Lista.Properties.Resources.resources
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\obj\Debug\ReproductoMP3Lista.csproj.GenerateResource.cache
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\obj\Debug\ReproductoMP3Lista.exe
+C:\Users\Rolando\Documents\c#\PROGRA III\TAREAS\ReproductoMP3Lista\ReproductoMP3Lista\obj\Debug\ReproductoMP3Lista.pdb
